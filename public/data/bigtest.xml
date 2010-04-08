@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rating>
+<okp name="Бакалавр">
+  <faculty name="Богословське відділення КПБА">
+    <study_form name="денна">
+      <study_term name="повний">
+        <study_spec name="теологія">
+          <unpayment_place_count>0</unpayment_place_count>
+          <license_place_count>28</license_place_count>
+          <abiturient><full_name>Петрук Володимир Дмитрович</full_name><mark>389.0</mark><has_privilege>так</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гергелюк Михайло Михайлович</full_name><mark>359.5</mark><has_privilege>так</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Повх Микола Іванович</full_name><mark>340.5</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Горопяк Михайло Іванович</full_name><mark>325.5</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Мартинюк Тарас Олександрович</full_name><mark>321.5</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Краснодемський Назар Петрович</full_name><mark>320.0</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Повх Тарас Іванович</full_name><mark>320.0</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Німчук Володимир Михайлович</full_name><mark>316.5</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Бойко Олександр Миколайович</full_name><mark>316.5</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Нямцу Дмитро Іванович</full_name><mark>291.5</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Апакіца Костянтин Іванович</full_name><mark>290.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Лазоряк Євген Васильович</full_name><mark>290.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Лесюк Ігор Миколайович</full_name><mark>288.5</mark><has_privilege>ні</has_privilege><is_original>оригінал *</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Ягнич Назар Іванович</full_name><mark>285.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Піцу Марія Костянтинівна</full_name><mark>285.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Герман Магдалина Василівна</full_name><mark>285.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Каленюк Олеся Степанівна</full_name><mark>280.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment/><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Лазарук Роман Романович</full_name><mark>280.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Чебан Дмитро Васильович</full_name><mark>280.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+        </study_spec>
+      </study_term>
+    </study_form>
+  </faculty>
+  <faculty name="Географічний факультет">
+    <study_form name="денна">
+      <study_term name="повний">
+        <study_spec name="географія">
+          <unpayment_place_count>30</unpayment_place_count>
+          <license_place_count>90</license_place_count>
+          <abiturient><full_name>Босяк Іван Петрович</full_name><mark>358.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment/></abiturient>
+          <abiturient><full_name>Дорош Юрій Іванович</full_name><mark>273.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Грималюк Ірина Іванівна</full_name><mark>378.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Ванхала Мар'яна Костянтинівна</full_name><mark>378.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Бачинський Василь Іванович</full_name><mark>375.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Труфин Світлана Миколаївна</full_name><mark>373.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Синько Мар'яна Іванівна</full_name><mark>373.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Данькова Юлія Сергіївна</full_name><mark>370.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Юрченко Юлія Олегівна</full_name><mark>369.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Левіцька Інна Віталіївна</full_name><mark>365.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Шевчук Ірина Олександрівна</full_name><mark>365.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гданська Ольга Олександрівна</full_name><mark>365.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Лейберюк Олександр Михайлович</full_name><mark>360.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Мельник Юрій Ігорович</full_name><mark>360.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Поцілуйко Ольга Ігорівна</full_name><mark>359.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Шешуряк Діна Віталіївна</full_name><mark>358.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Шкромида Ірина Володимирівна</full_name><mark>356.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Бабійчук Іван Михайлович</full_name><mark>356.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Козачок Наталія Василівна</full_name><mark>354.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Литвин Тарас Васильович</full_name><mark>352.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гелембин Юлія Михайлівна</full_name><mark>351.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Безкоровайна Тетяна Дмитрівна</full_name><mark>351.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+        </study_spec>
+        <study_spec name="геодезія, картографія та землеустрій">
+          <unpayment_place_count>10</unpayment_place_count>
+          <license_place_count>40</license_place_count>
+          <abiturient><full_name>Маланчук Роман Миколайович</full_name><mark>379.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment/></abiturient>
+          <abiturient><full_name>Буджак Павло Миколайович</full_name><mark>284.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Качуровський Михайло Зіновійович</full_name><mark>336.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Рубан Марія Володимирівна</full_name><mark>312.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Мамінчук Анастасія Юріївна</full_name><mark>384.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Мошенко Маріанна Василівна</full_name><mark>367.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Кочкодан Тарас Іванович</full_name><mark>361.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Куфлей Іван Іванович</full_name><mark>355.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гойман Ярослав Богданович</full_name><mark>349.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment/></abiturient>
+          <abiturient><full_name>Стеф'юк Олександра Григорівна</full_name><mark>344.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гловацький Олександр Володимирович</full_name><mark>342.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Музика Софія Володимирівна</full_name><mark>336.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Воробець Степан Миколайович</full_name><mark>333.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Онуфрійчук Павло Анатолійович</full_name><mark>332.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Баєр Михайло Георгійович</full_name><mark>332.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Марук Наталія Володимирівна</full_name><mark>327.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Мизак Юлія Василівна</full_name><mark>325.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Хроменкова Тетяна Анатоліївна</full_name><mark>325.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Ткачук Іван Петрович</full_name><mark>316.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Маланчук Наталія Анатоліївна</full_name><mark>316.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Слота Наталія Ігорівна</full_name><mark>313.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Сидоряк Степан Васильович</full_name><mark>311.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Домашнєва Марта Вікторівна</full_name><mark>311.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Думан Едуард Іванович</full_name><mark>301.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гордійчук Марина Олексіївна</full_name><mark>299.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Проскурняк Сергій Петрович</full_name><mark>298.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Воробець Василь Ілліч</full_name><mark>298.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Брідкова Аліна Іванівна</full_name><mark>295.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Дутчак Андрій Іванович</full_name><mark>293.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Газінський Ігор Милитійович</full_name><mark>287.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гордійчук Микола Васильович</full_name><mark>280.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Габур Петро Петрович</full_name><mark>279.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Колотило Василь Іванович</full_name><mark>279.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Землянський Михайло Вікторович</full_name><mark>278.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Гордей Руслана Володимирівна</full_name><mark>271.0</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Микитюк Роман Миколайович</full_name><mark>334.0</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Туєшин Руслан Степанович</full_name><mark>315.5</mark><has_privilege>так</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Лупащук Маргарита Олегівна</full_name><mark>302.5</mark><has_privilege>ні</has_privilege><is_original>оригінал</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Карасевич Сергій Володимирович</full_name><mark>314.5</mark><has_privilege>ні</has_privilege><is_original>копія</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Кузик Віталій Миколайович</full_name><mark>313.5</mark><has_privilege>так</has_privilege><is_original>копія</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Яцяк Христина Василівна</full_name><mark>313.5</mark><has_privilege>ні</has_privilege><is_original>копія</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+          <abiturient><full_name>Чередюк Максим Вікторович</full_name><mark>313.0</mark><has_privilege>так</has_privilege><is_original>копія</is_original><want_unpayment>ДЗ</want_unpayment><want_payment>ПЛ</want_payment></abiturient>
+        </study_spec>
+      </study_term>
+    </study_form>
+  </faculty>
+</okp>
+</rating>
